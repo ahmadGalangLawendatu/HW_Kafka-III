@@ -1,0 +1,11 @@
+{
+  "namespace": "com.bagas.bitcoin",
+  "type": "record",
+  "name": "Bitcoin",
+  "fields": [
+    {
+      "name": "Date",
+      "type": "string"
+    }
+  ]
+}
